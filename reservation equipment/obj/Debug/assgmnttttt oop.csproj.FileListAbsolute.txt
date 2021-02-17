@@ -1,0 +1,38 @@
+c:\users\amirzubir\documents\visual studio 2015\Projects\assgmnttttt oop\assgmnttttt oop\bin\Debug\assgmnttttt oop.exe.config
+c:\users\amirzubir\documents\visual studio 2015\Projects\assgmnttttt oop\assgmnttttt oop\bin\Debug\assgmnttttt oop.exe
+c:\users\amirzubir\documents\visual studio 2015\Projects\assgmnttttt oop\assgmnttttt oop\bin\Debug\assgmnttttt oop.pdb
+c:\users\amirzubir\documents\visual studio 2015\Projects\assgmnttttt oop\assgmnttttt oop\obj\Debug\assgmnttttt oop.csprojResolveAssemblyReference.cache
+c:\users\amirzubir\documents\visual studio 2015\Projects\assgmnttttt oop\assgmnttttt oop\obj\Debug\assgmnttttt_oop.Form1.resources
+c:\users\amirzubir\documents\visual studio 2015\Projects\assgmnttttt oop\assgmnttttt oop\obj\Debug\assgmnttttt_oop.logstdnt.resources
+c:\users\amirzubir\documents\visual studio 2015\Projects\assgmnttttt oop\assgmnttttt oop\obj\Debug\assgmnttttt_oop.Properties.Resources.resources
+c:\users\amirzubir\documents\visual studio 2015\Projects\assgmnttttt oop\assgmnttttt oop\obj\Debug\assgmnttttt oop.csproj.GenerateResource.Cache
+c:\users\amirzubir\documents\visual studio 2015\Projects\assgmnttttt oop\assgmnttttt oop\obj\Debug\assgmnttttt oop.exe
+c:\users\amirzubir\documents\visual studio 2015\Projects\assgmnttttt oop\assgmnttttt oop\obj\Debug\assgmnttttt oop.pdb
+c:\users\amirzubir\documents\visual studio 2015\Projects\assgmnttttt oop\assgmnttttt oop\obj\Debug\assgmnttttt_oop.menu.resources
+c:\users\amirzubir\documents\visual studio 2015\Projects\assgmnttttt oop\assgmnttttt oop\obj\Debug\assgmnttttt_oop.register.resources
+C:\Users\amirzubir\Documents\Visual Studio 2015\Projects\assgmnttttt oop\assgmnttttt oop\obj\Debug\assgmnttttt_oop.stdntregister.resources
+C:\Users\amirzubir\Documents\Visual Studio 2015\Projects\assgmnttttt oop\assgmnttttt oop\obj\Debug\assgmnttttt_oop.viewApproval.resources
+C:\Users\amirzubir\Documents\Visual Studio 2015\Projects\assgmnttttt oop\assgmnttttt oop\obj\Debug\assgmnttttt_oop.stafflogin.resources
+C:\Users\amirzubir\Documents\Visual Studio 2015\Projects\assgmnttttt oop\assgmnttttt oop\obj\Debug\assgmnttttt_oop.staffMenu.resources
+C:\Users\amirzubir\Documents\Visual Studio 2015\Projects\assgmnttttt oop\assgmnttttt oop\obj\Debug\assgmnttttt_oop.statusapproval.resources
+C:\Users\amirzubir\Documents\Visual Studio 2015\Projects\assgmnttttt oop\assgmnttttt oop\obj\Debug\assgmnttttt_oop.menustaff.resources
+C:\Users\amirzubir\Documents\Visual Studio 2015\Projects\assgmnttttt oop\assgmnttttt oop\obj\Debug\assgmnttttt_oop.report.resources
+C:\Users\Asus\Documents\coding\assgmnttttt oop buku unggu\assgmnttttt oop\bin\Debug\assgmnttttt oop.exe.config
+C:\Users\Asus\Documents\coding\assgmnttttt oop buku unggu\assgmnttttt oop\obj\Debug\assgmnttttt oop.exe
+C:\Users\Asus\Documents\coding\assgmnttttt oop buku unggu\assgmnttttt oop\obj\Debug\assgmnttttt oop.pdb
+C:\Users\Asus\Documents\coding\assgmnttttt oop buku unggu\assgmnttttt oop\bin\Debug\assgmnttttt oop.exe
+C:\Users\Asus\Documents\coding\assgmnttttt oop buku unggu\assgmnttttt oop\bin\Debug\assgmnttttt oop.pdb
+C:\Users\Asus\Documents\coding\assgmnttttt oop buku unggu\assgmnttttt oop\obj\Debug\assgmnttttt oop.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\coding\assgmnttttt oop buku unggu\assgmnttttt oop\obj\Debug\assgmnttttt_oop.Form1.resources
+C:\Users\Asus\Documents\coding\assgmnttttt oop buku unggu\assgmnttttt oop\obj\Debug\assgmnttttt_oop.logstdnt.resources
+C:\Users\Asus\Documents\coding\assgmnttttt oop buku unggu\assgmnttttt oop\obj\Debug\assgmnttttt_oop.menu.resources
+C:\Users\Asus\Documents\coding\assgmnttttt oop buku unggu\assgmnttttt oop\obj\Debug\assgmnttttt_oop.menustaff.resources
+C:\Users\Asus\Documents\coding\assgmnttttt oop buku unggu\assgmnttttt oop\obj\Debug\assgmnttttt_oop.Properties.Resources.resources
+C:\Users\Asus\Documents\coding\assgmnttttt oop buku unggu\assgmnttttt oop\obj\Debug\assgmnttttt_oop.register.resources
+C:\Users\Asus\Documents\coding\assgmnttttt oop buku unggu\assgmnttttt oop\obj\Debug\assgmnttttt_oop.report.resources
+C:\Users\Asus\Documents\coding\assgmnttttt oop buku unggu\assgmnttttt oop\obj\Debug\assgmnttttt_oop.stafflogin.resources
+C:\Users\Asus\Documents\coding\assgmnttttt oop buku unggu\assgmnttttt oop\obj\Debug\assgmnttttt_oop.staffMenu.resources
+C:\Users\Asus\Documents\coding\assgmnttttt oop buku unggu\assgmnttttt oop\obj\Debug\assgmnttttt_oop.statusapproval.resources
+C:\Users\Asus\Documents\coding\assgmnttttt oop buku unggu\assgmnttttt oop\obj\Debug\assgmnttttt_oop.stdntregister.resources
+C:\Users\Asus\Documents\coding\assgmnttttt oop buku unggu\assgmnttttt oop\obj\Debug\assgmnttttt_oop.viewApproval.resources
+C:\Users\Asus\Documents\coding\assgmnttttt oop buku unggu\assgmnttttt oop\obj\Debug\assgmnttttt oop.csproj.GenerateResource.Cache
